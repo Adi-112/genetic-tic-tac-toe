@@ -26,7 +26,7 @@ An AI-powered Tic-Tac-Toe game where the computer uses a genetic algorithm to le
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
+   git clone https://github.com/Adi-112/genetic-tic-tac-toe
    cd tic-tac-toe-ai
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ Change heuristics: Edit calculate_heuristic() in code
 Pull requests welcome! For major changes, open an issue first.
 
 License
-MIT
+
 
 Copy
 
@@ -66,6 +66,6 @@ Copy
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/your-username/repo-name.git
+   git remote add origin https://github.com/Adi-112/genetic-tic-tac-toe
    git push -u origin main
 
